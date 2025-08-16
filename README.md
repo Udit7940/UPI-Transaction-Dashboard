@@ -5,8 +5,8 @@ The UPI Transaction Dashboard 2024 offers a comprehensive, data-driven view of I
 
 ## Tech Stack
 
- Power BI for Visualization.
- Power Query Editor for Data cleaning and Manipulation.
+ 1.Power BI for Visualization.
+ 2.Power Query Editor for Data cleaning and Manipulation.
 
 ## Usage
 1. Import Both the CSV file(UPI-Transaction-2024) into the Power BI through the Import Excel.
