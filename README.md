@@ -17,3 +17,4 @@ The UPI Transaction Dashboard 2024 offers a comprehensive, data-driven view of I
 
 
 ## Screenshot of Dashboard
+![alt text](Screenshot.png)
